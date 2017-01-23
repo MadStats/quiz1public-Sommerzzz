@@ -15,7 +15,7 @@ medical data and image data
 
 
 5) Do you have a github account?
-yessss
+yesssss
 
 
 6) What are your goals after graduation?
